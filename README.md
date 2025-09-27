@@ -20,4 +20,5 @@ This project uses MySQL to analyze ecommerce sales data. It includes data qualit
 - **Retention**: Analyzes customer purchases over time.
 
 ## Contact
-Feel free to reach out at [your email or LinkedIn] for questions!
+
+Feel free to reach out for questions!
